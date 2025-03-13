@@ -1,0 +1,13 @@
+form{
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box; */
+    
+}
+.msg-error{
+    color:  red;
+}
+.input-error{
+border: 1px solid red;
+}
